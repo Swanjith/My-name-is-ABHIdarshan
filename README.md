@@ -1,6 +1,8 @@
 # My-name-is-ABHIdarshan
 
-![ABHI Flappy Fail](screenshot.png)
+![ABHI](Abhi.png)
+
+![ABHI Flappy Fail](abhi-crash.jpg)
 
 My Name is ABHIdarshan v1.0.0 – Flappy Bird's evil twin!
 
