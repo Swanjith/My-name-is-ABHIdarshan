@@ -1,6 +1,6 @@
 # My-name-is-ABHIdarshan
 
-![ABHI](Abhi.png)
+![ABHI](Abhi.jpeg)
 
 ![ABHI Flappy Fail](abhi-crash.jpg)
 
